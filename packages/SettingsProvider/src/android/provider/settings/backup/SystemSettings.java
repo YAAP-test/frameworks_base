@@ -154,5 +154,6 @@ public class SystemSettings {
         Settings.System.VOLUME_PANEL_ON_LEFT,
         Settings.System.STATUS_BAR_BRIGHTNESS_CONTROL,
         Settings.System.FULLSCREEN_GESTURES,
+        Settings.System.SHOW_FOURG_ICON,
     };
 }
