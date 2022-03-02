@@ -155,5 +155,6 @@ public class SystemSettings {
         Settings.System.STATUS_BAR_BRIGHTNESS_CONTROL,
         Settings.System.FULLSCREEN_GESTURES,
         Settings.System.SHOW_FOURG_ICON,
+        Settings.System.USE_OLD_MOBILETYPE,
     };
 }
