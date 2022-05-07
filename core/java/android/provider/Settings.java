@@ -5211,20 +5211,6 @@ public final class Settings {
         public static final String MULTI_AUDIO_FOCUS_ENABLED = "multi_audio_focus_enabled";
 
         /**
-         * Whether to show qs footer text
-         * @hide
-         */
-        @Readable
-        public static final String QS_FOOTER_TEXT_SHOW = "qs_footer_text_show";
-
-        /**
-         * QS footer text
-         * @hide
-         */
-        @Readable
-        public static final String QS_FOOTER_TEXT_STRING = "qs_footer_text_string";
-
-        /**
          * Whether to show the battery info on the lockscreen while charging
          * @hide
          */
